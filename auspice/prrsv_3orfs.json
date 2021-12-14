@@ -52,11 +52,6 @@
         "type": "categorical"
       },
       {
-        "key": "state",
-        "title": "State",
-        "type": "categorical"
-      },
-      {
         "key": "L1C-144",
         "title": "L1C-144",
         "type": "categorical"
@@ -82,7 +77,6 @@
     },
     "filters": [
       "L1C-144",
-      "state",
       "lineage"
     ],
     "maintainers": [
